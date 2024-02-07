@@ -16,6 +16,6 @@ The Testing is performed by running test_ISTAD_net.ipynb
 The notebooks loads models from the "models" folder. 
 
 
-#D ata
+# Data
 The provided data consits of mat files with images in 256X256 format. Source of images: ISTA-NET repository mentioned above.
 
